@@ -10,3 +10,4 @@ __pycache__/
 
 # Configuration
 /config.json
+/docker-compose.yml
